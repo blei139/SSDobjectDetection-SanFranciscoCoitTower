@@ -5,4 +5,9 @@ Instruction to run python script:
 At the linux or ubuntu prompt, type this command in the object_detection directory: python SSDobjectDetectionVideoProc.py .
 
 See my youtube video here: 
+
 https://youtu.be/6VUCUHas5yk
+
+https://youtu.be/0T_ZMUoLdH4
+
+https://youtu.be/eCGAmF2ccUs
